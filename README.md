@@ -4,6 +4,11 @@
 <img src="/react-app/public/logo.png" />
 </p>
 
+``Connection information for default credential.
+Connection info string:
+   "dbname=dckcaul44ljkb5 host=ec2-52-71-69-66.compute-1.amazonaws.com port=5432 user=xidnumdfgvfkxb password=10adaa202da00e38b52ddd99ef2f3950497ec5ebd82cc1965464bccf4b7c5529 sslmode=require"
+Connection URL:
+   postgres://xidnumdfgvfkxb:10adaa202da00e38b52ddd99ef2f3950497ec5ebd82cc1965464bccf4b7c5529@ec2-52-71-69-66.compute-1.amazonaws.com:5432/dckcaul44ljkb5``
 ## What is it?
 
 JumpStart is a clone of Kickstarter with some GoFundMe influences.
